@@ -1,2 +1,0 @@
-{"comment": "Comida wonderful place of the true gum shrimp.  NThe waiter Eric Lima served us very well, we intend to return as soon as possible. ", "polarity": 0.7375, "subjectivity": 0.7375}
-{"comment": "Comida good, cool drinks and a very cozy atmosphere.  NProvamos many things and it pleased us. Mainly a duck served in one of the house dishes, sensational! ", "polarity": 0.675, "subjectivity": 0.675}
