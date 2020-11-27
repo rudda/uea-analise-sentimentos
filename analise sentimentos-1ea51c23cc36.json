@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nimble-anagram-185122",
+  "private_key_id": "1ea51c23cc36f5e51f172404d5e6b15979255475",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5Lq2qNtqfMl8L\nKzjtP/vrEwBPFqUefmhSb+vw7l4vEfr0rggDZSp0A9DNELw0JzpEiYjgh6jQrWFS\nVZ5EgK2ExSe8KDBf/jBXxLxU8wvRI+OyuqPlY8NjG8Zz+077YgjZLx1tHLGgy+nx\nBSyA9BE9uO3UAag6FPC3ZAU6qpMj555Ty+ziZdHGXycictRZI1mHEAq7YcGGgfp3\n1ATgZDKxaFCXPd69+SLHBxhROObD5SoSnsCO3pyzuJjdGgWPVkwZ+oy3bCSLmvVh\nyGW/8fb8I7JRnXOsqQ8hkixQqnR1X6nguNrjPnv9oorT3kgTlw1syyJ7hBudlNcR\nw+4CIqKfAgMBAAECggEALur9NCWewXv1KbLDQxUVgis3xlIB9tZnHw/dUxdJxJpF\nH44iWJ3eojM/SV2GmZ4gvLGt/NlSM8Dh6gboSQnjLML4/Mqf6wpPfEVLxCgqI8x4\nidWQ5fMfU3J7lvIiwj1F6aTuyzDcblWLybWaX3e3EJDUrQTYdxLMJGLSklkaW5uK\nb+TFqYs/D4KImvlaYzofjNX2QWvtsgpxzfACprPrykIgxnkNVpj0UbtF9GxwKepY\ndw3lpvsnjuP5+OYwSFp7Y+sQwT2WQqJu5jXflPFNDsxi6tH3yw9HeIBR7aqOP+gI\nnllQacf/iYeuPNGXPQFuuVDmd3ecPl4ogFXCd52J9QKBgQDndDc9KEtqpwVvd0cA\nJTheAXbcVALWhwBlX18g7cke6rtD4dPjifukn/FfykLRLf8G2Nb+SSHUoDMLNKTN\nanrRa4brOfiF4MTJlxZspGqEgKyC0LIY8J5CHTISeNKBFZ3E6BoEl13AAxItHxzV\n12WaDlE9cmTu2Qus6tVOFaTLIwKBgQDM0jncbNb3DHRxIigNw0j+g3SEW7Jm5r5W\nZPQTZkRMx5BRj8pMHpv8bUl7cpyfdXfVuyyCVIaalBhwJKS3xPq/+CH0M0PZQB0X\nUKtM7XqS1ZrZw35xg3N8OZuJWbiL6GILG7JCVUa1Xza5epKXb6OFcTbW7j90tMXd\niucmd3MQVQKBgCOcEr+bCndfOQvcOxU/pLt52DKvzjv5S0tNcBJd4zqZfLRF81an\nrQq3/Ofy83LBc+I2zGUVFVpkR1YrBEwCXOEJfRmFssHOQhiN4UpXxXebYG9D8pK5\num+LlF+ZLTHlBH/+AbrBGxBmqI4+oi4YVK5uE3uztOm2hQBWpPi9hbwnAoGAWmE9\nxQWGCffF/hIbaI9Oy3hIVwt7eqrBPLBJf7H124eIKGVx2Ar9u/KhpUaa1EZqfbad\nWllgGB/XdMzGnozeNQ2SNgbVHq2K6LnhDQ4Rs29saEE6r25Y7G0jNAWSSLJfaRVs\noJaun+QG6uuqegZ6Oq0NjOQOvjnyweLEQxYcgQ0CgYEA25Pr9bM3U538tG1unROC\nCd1NQVmmrxQ2cOmKs9jf/sL/LgZvKzSdIAyr9Ie3EiP3CUVfw8dXcmmihdYFma2m\n+BxPqIz9ONY/VlEL2HlQhmjFp5kmIHg5oVcC+0FWa++cuWHKVq5nIMx5p23iWbQ1\nJUtgzexN7m9kE+tXp9aKlD0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rudda-machine@nimble-anagram-185122.iam.gserviceaccount.com",
+  "client_id": "116494895281268059110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rudda-machine%40nimble-anagram-185122.iam.gserviceaccount.com"
+}
